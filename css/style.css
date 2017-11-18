@@ -32,7 +32,10 @@ h1{color: white;}
 
 .container-box {
     background-color: rgba(192,192,192,0.3);
-}
+	height:100%;
+	
+	
+	}
 
 .logo {
     margin: 0 auto;
