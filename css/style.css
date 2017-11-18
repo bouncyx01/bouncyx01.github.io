@@ -1,0 +1,153 @@
+
+@font-face {
+    font-family: GROBOLD;
+    src: url(../fonts/GROBOLD.ttf);
+}
+
+body {
+    background-image: url(../images/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0px;
+}
+
+h1{color: white;}
+	p{color: white;
+		text-align: justify;}
+#gal_heading{
+	
+		font-size: 30px;
+		text-align: center;
+		color: white;
+		  
+}
+.heading{ font-size:10px;}
+
+.container {
+    font-family: GROBOLD;
+    height: 100%;
+    margin: 0 auto;
+    width: 90%;
+}
+
+.container-box {
+    background-color: rgba(192,192,192,0.3);
+}
+
+.logo {
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 15px;
+}
+
+.logo-img {
+    width: 300px;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 56px;
+}
+
+
+.navigation-bar {
+    display: flex;
+    justify-content: space-around;
+}
+
+ul {
+    list-style-type: none;
+    overflow: hidden;
+    color: white;
+    background-color: #1D70B7;
+    font-size: 26px;
+}
+
+li {
+    float: left;
+    padding: 5px;
+}
+
+    li a {
+        display: block;
+        color: white;
+        text-align: center;
+        text-decoration: none;
+    }
+
+        li a:hover {
+            background-color: #111111;
+        }
+
+.offer {
+    width: 250px;
+    margin-top: -115px;
+}
+
+
+
+.imagesizes img{
+		
+			width: 80%;
+			height: 80%;
+			
+			}
+.imagesizes p {text-align: center;
+				font-family: GROBOLD;
+				font-size: 30px;
+				color: white;
+}
+
+
+.imagesizes2 img{
+		
+			width: 80%;
+			height: 80%;
+			
+			}
+.imagesizes2 p {text-align: center;
+				font-family: GROBOLD;
+				font-size: 30px;
+				color: white;
+}
+
+
+
+
+
+#leftcontent {
+    margin-left: 5%;
+	float:left;
+    width:45%;
+background-color: rgba(192,192,192,0.3);
+	}
+
+
+
+	
+#rightcontent {
+    float:left;
+    width:45%;
+background-color: rgba(192,192,192,0.3);
+	}
+
+
+.imagesizes3 img{
+		
+			width: 30%;
+			height: 30%;
+			margin-left: 50%;
+			}
+			
+			
+footer ul li {
+    font-family: GROBOLD;
+    font-size: 33px !important;
+}
+
+.navigation-bar-footer {
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
