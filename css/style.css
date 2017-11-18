@@ -84,7 +84,9 @@ li {
         }
 
 
-.midimage{margin-left:7%;}
+.midimage{margin-left:3%;
+			width: 900px;
+			}
 		
 .offer {
     width: 300px;
